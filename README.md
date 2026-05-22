@@ -88,7 +88,6 @@ cd Breast-Cancer-Predictor
 ```bash
 pip install -r requirements.txt
 ```
-
 ---
 
 ## 4️⃣ Run the application
@@ -108,7 +107,6 @@ Beautiful AI-powered medical dashboard with interactive sliders.
 - ✅ Benign Prediction
 - ⚠️ Malignant Prediction
 - 📊 Confidence Score
-
 
 # 👨‍💻 Author
 

@@ -27,7 +27,6 @@ using medical measurements from the Wisconsin Breast Cancer Dataset.
 # 🧠 Machine Learning Model
 
 Model Used:
-
 - AdaBoostClassifier
 
 Dataset:

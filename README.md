@@ -98,6 +98,7 @@ streamlit run app.py
 
 ## Home Interface
 
+
 Beautiful AI-powered medical dashboard with interactive sliders.
 
 ## Prediction Result

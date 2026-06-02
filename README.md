@@ -24,6 +24,7 @@ using medical measurements from the Wisconsin Breast Cancer Dataset.
 
 ---
 
+
 # 🧠 Machine Learning Model
 
 Model Used:
@@ -88,6 +89,7 @@ cd Breast-Cancer-Predictor
 pip install -r requirements.txt
 ```
 ---
+
 
 ## 4️⃣ Run the application
 

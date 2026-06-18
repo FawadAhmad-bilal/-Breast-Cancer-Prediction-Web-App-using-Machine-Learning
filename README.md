@@ -111,7 +111,4 @@ Beautiful AI-powered medical dashboard with interactive sliders.
 
 # 👨‍💻 Author
 
-
-
-
 Developed by Fawad Ahmad Bilal 🚀

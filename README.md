@@ -110,4 +110,8 @@ Beautiful AI-powered medical dashboard with interactive sliders.
 - 📊 Confidence Score
 
 # 👨‍💻 Author
+
+
+
+
 Developed by Fawad Ahmad Bilal 🚀
